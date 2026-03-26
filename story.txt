@@ -39,3 +39,6 @@ P153
 The Catwoman growls and snarls before leaping down from the tree to attack you. You step back and prepare to fight.
 CATWOMAN         SKILL 8        STAMINA 5
 If you win turn to 202. You may Escape by running east along the path - turn to 355.
+
+P154
+You get to your feet and see that the Lantern has turned a dull black colour. You decide to have no more to do with it and set off north along the path (turn to 321).
