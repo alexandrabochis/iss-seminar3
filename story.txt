@@ -30,7 +30,12 @@ Ahead you hear high pitched voices frantically calling each other. The tunnel en
 P296
 Back at the junction you may either crawl south back tot he well(398) or continue west(284)
 
-
 P398
 You reach the end of the tunnel and are about to step out on to the ladder on the wall of the well when you hear footsteps above you. If you wish to reach out, turn to 320. If you would rather wait, turn to 193.
 
+P205
+Each Pygmy has a small, leather pouch hung around his neck. You find 3 Gold Pieces in each. You take the gold and return to the path to continue your northwards journey. Turn to 92.
+
+
+P206
+Suddenly off the path to your left you hear cries for help. If you wish to go to the aid of the person in trouble, turn to 253. If you would rather ignore the cries and continue your journey north, turn to 187.
