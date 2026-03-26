@@ -71,3 +71,9 @@ Ahead you hear the thumping of heavy footsteps and the noise of brances breaking
 
 P265
 You are attacked by a huge creature. You are able to dodge it but it is still too big for you to handle. If you wish to fight it, turn to 269. If you wish to hide, turn to 318.
+
+P111
+Health bar is now at 10. You ate some fungus and you feel better. If you wish to continue walking north, turn to 337. If you wish to crawl back to the junction, turn to 93. Stamina is going down second by second. Good luck.
+
+P112
+The guests welcomed you and you are now free to explore the area. You see a table with a large cake on it. If you wish to eat some of the cake, turn to 154. If you wish to ignore the cake and explore the rest of the area, turn to 156.
