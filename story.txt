@@ -32,6 +32,9 @@ Back at the junction you may either crawl south back tot he well(398) or continu
 P157
 To the left of your path you notice a large hole in the ground with a diameter of three meters. Walking over to the edge of the hole you see it sloping off into the depths of the earth. If you wish to walk down into the hole, turn to 125. If you prefer to continue walking northwards up the path, turn to 337.
 
+P125
+As you descend into the hole, you notice large amounts of slime secreted by some huge creature. If you wish to climb back out of the hole and continue walking northwards up the path, turn to 337. If you wish to carry on down the hole, turn to 15.
+
 P273
 You take the medallion from the neck of the fallen Gremlin. It is made of gold and is worth 9 Gold Pieces. 
 There is nothing else of use or value in the cave. There is no other exit from the cave and you must crawl 
