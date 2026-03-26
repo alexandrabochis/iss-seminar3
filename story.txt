@@ -3,7 +3,6 @@ Written by: Bochis Alexandra, Bindiu Alexandru, Bercea Matei, Barliga Filip, Ben
 P135
 The tunnel continues north until at last you arrive at a junction. If you wish to crawl west, turn to 284. If you wish to crawl east, turn to 151.
 
-
 P71
 On pulling back the curtain you see a tiny green-skinned creature with large head. He has a long nose and pointed ears and wears brown canvas clothing. 
 On seeing you enter the cave he takes a stone hammer and smashes the clay hand.He is gremling chief and jumps to his feet to face you with his hammer. You must fight him.
@@ -28,7 +27,10 @@ P81
 Ahead you hear high pitched voices frantically calling each other. The tunnel ends at a small cave entrance. Suddenly an arrow flies out of the cave towards you. Test your luck. If you are Lucky, the arrow whistles oast your head (turn to 49). If you are Unlucky, it lodges in your shoulder (turn to 4).
 
 P296
-Back at the junction you may either crawl south back tot he well(398) or continue west(284)
+Back at the junction you may either crawl south back tot he well(398) or continue west(284). or Secret option 157.
+
+P157
+To the left of your path you notice a large hole in the ground with a diameter of three meters. Walking over to the edge of the hole you see it sloping off into the depths of the earth. If you wish to walk down into the hole, turn to 125. If you prefer to continue walking northwards up the path, turn to 337.
 
 P273
 You take the medallion from the neck of the fallen Gremlin. It is made of gold and is worth 9 Gold Pieces. 
@@ -42,3 +44,25 @@ If you win turn to 202. You may Escape by running east along the path - turn to 
 
 P154
 You get to your feet and see that the Lantern has turned a dull black colour. You decide to have no more to do with it and set off north along the path (turn to 321).
+
+P166
+The friar smiles and says 'Bless you'. He bows and sets off south along the path, whistling as he goes.
+
+P167
+The weyverns long tail swishes from side to side and smoke curls up from its nostrils. You draw sword and prepare to fight this fearsome monster.
+
+P4
+Loss 4 Stamina points. If you are still alive you manage to pull the arrow from your shoulder although the pain is agonizing. If you still wish to enter the cave,
+turn to 49. If you wish to crawl back to the junction, turn to 93.
+
+P49
+You press on down the tunnel into the cave entrance. The roof of the cave is no higher than the tunnel and you are unable to stand up.
+YOu fight to Gremlins one at a time but must reduce your Attack Strength by 3 for each round of combat because you are fighting on your
+hands and knees. If you win, turn to 371.
+
+P189
+The green topped fungi are being watered by two of the humaoinds. if you want to eat some of the fungus turn to 269. if you wish to leave the cavern by the steps on the far wall, turn to 293.
+
+P190
+Ahead you hear the thumping of heavy footsteps and the noise of brances breaking. It sounds as though some huge creature is coming down the path towards you. If you wish to face the beast turrn to 265. If you would rather hide in the bushes off the path turn to 318. 
+
