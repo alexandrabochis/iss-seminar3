@@ -37,6 +37,12 @@ You take the medallion from the neck of the fallen Gremlin. It is made of gold a
 There is nothing else of use or value in the cave. There is no other exit from the cave and you must crawl 
 back down the tunnel to the junction - turn to 296.
 
+P166
+The friar smiles and says 'Bless you'. He bows and sets off south along the path, whistling as he goes.
+
+P167
+The weyverns long tail swishes from side to side and smoke curls up from its nostrils. You draw sword and prepare to fight this fearsome monster.
+
 P4
 Loss 4 Stamina points. If you are still alive you manage to pull the arrow from your shoulder although the pain is agonizing. If you still wish to enter the cave,
 turn to 49. If you wish to crawl back to the junction, turn to 93.
