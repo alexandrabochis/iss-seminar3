@@ -66,3 +66,5 @@ The green topped fungi are being watered by two of the humaoinds. if you want to
 P190
 Ahead you hear the thumping of heavy footsteps and the noise of brances breaking. It sounds as though some huge creature is coming down the path towards you. If you wish to face the beast turrn to 265. If you would rather hide in the bushes off the path turn to 318. 
 
+P265
+You are attacked by a huge creature. You are able to dodge it but it is still too big for you to handle. If you wish to fight it, turn to 269. If you wish to hide, turn to 318.
