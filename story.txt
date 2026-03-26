@@ -13,3 +13,6 @@ If you wish to turn round and return to the junction in the tunnel, turn to 121.
 
 P151
 The tunnel ends at a cave entrance. A curtain hangs over the entrance and you are unable to see inside. If you wish to throw back the curtain and enter the cave, turn to 71. If you wish to turn round and return to the jucntion int the tunnel, turn to 296.
+
+P81
+Ahead you hear high pitched voices frantically calling each other. The tunnel ends at a small cave entrance. Suddenly an arrow flies out of the cave towards you. Test your luck. If you are Lucky, the arrow whistles oast your head (turn to 49). If you are Unlucky, it lodges in your shoulder (turn to 4).
