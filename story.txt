@@ -39,3 +39,7 @@ Each Pygmy has a small, leather pouch hung around his neck. You find 3 Gold Piec
 
 P206
 Suddenly off the path to your left you hear cries for help. If you wish to go to the aid of the person in trouble, turn to 253. If you would rather ignore the cries and continue your journey north, turn to 187.
+
+
+P121
+Back at the junction, you may either go east (turn to 61) or keep going north (turn to 81).
