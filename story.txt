@@ -66,3 +66,10 @@ The green topped fungi are being watered by two of the humaoinds. if you want to
 P190
 Ahead you hear the thumping of heavy footsteps and the noise of brances breaking. It sounds as though some huge creature is coming down the path towards you. If you wish to face the beast turrn to 265. If you would rather hide in the bushes off the path turn to 318. 
 
+P161
+As your hand descends into the inky blackness of the vase it is gripped by an intense pain. First it feels as if it is being crushed and then it feels as if it is on fire. If you wish to pull your hand out of the vase, turn to 185. If you want to feel around to find out what is inside the vase, turn to 341.
+
+P162
+There is nothing to use or value in the Fish Man's cave, so you walk round to the north side wall.
+Steps lead back through the waterfall and up the north wall of the gorge to the top. You are at the foot of some hills and can see the path climbing up into their midst in the north. It is getting dark and night is closing in, so you decide to camp behind some rocks to the right of the path.
+You build a large fire and settle down to sleep with your sword by your side. Turn to 285.
