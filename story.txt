@@ -1,10 +1,15 @@
-Written by: Bochis Alexandra, Bindiu Alexandru, Bercea Matei, Barliga Filip, Bene Ionut
+Written by: Bochis Alexandra, Bindiu Alexandru, Bercea Matei, Barliga Filip, Bene Ionut, Berbecar Razvan
 
 P135
 The tunnel continues north until at last you arrive at a junction. If you wish to crawl west, turn to 284. If you wish to crawl east, turn to 151.
+
+P284
 You soon arrive at another junction in the tunnel. If you wish to head north, turn 81. If you wish to head south, turn to 270.
 
 P270
 The tunnel ends at a cave entrance. On entering the cave you see that the roof is no higher than the tunnel and you are unable to stand up. The cave is the lair of an intelligent creature, for it contains small pieces of furniture. There is a wooden box just over a metre in length at the back of the cave.
 If you wish to lift the lid of the box, turn to 229.
 If you wish to turn round and return to the junction in the tunnel, turn to 121.
+
+P151
+The tunnel ends at a cave entrance. A curtain hangs over the entrance and you are unable to see inside. If you wish to throw back the curtain and enter the cave, turn to 71. If you wish to turn round and return to the jucntion int the tunnel, turn to 296.
