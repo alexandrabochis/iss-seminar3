@@ -69,5 +69,18 @@ The green topped fungi are being watered by two of the humaoinds. if you want to
 P190
 Ahead you hear the thumping of heavy footsteps and the noise of brances breaking. It sounds as though some huge creature is coming down the path towards you. If you wish to face the beast turrn to 265. If you would rather hide in the bushes off the path turn to 318. 
 
+P398
+You reach the end of the tunnel and are about to step out on to the ladder on the wall of the well when you hear footsteps above you. If you wish to reach out, turn to 320. If you would rather wait, turn to 193.
+
+P205
+Each Pygmy has a small, leather pouch hung around his neck. You find 3 Gold Pieces in each. You take the gold and return to the path to continue your northwards journey. Turn to 92.
+
+
+P206
+Suddenly off the path to your left you hear cries for help. If you wish to go to the aid of the person in trouble, turn to 253. If you would rather ignore the cries and continue your journey north, turn to 187.
+
+P121
+Back at the junction, you may either go east (turn to 61) or keep going north (turn to 81).
+
 P265
 You are attacked by a huge creature. You are able to dodge it but it is still too big for you to handle. If you wish to fight it, turn to 269. If you wish to hide, turn to 318.
