@@ -27,7 +27,10 @@ P81
 Ahead you hear high pitched voices frantically calling each other. The tunnel ends at a small cave entrance. Suddenly an arrow flies out of the cave towards you. Test your luck. If you are Lucky, the arrow whistles oast your head (turn to 49). If you are Unlucky, it lodges in your shoulder (turn to 4).
 
 P296
-Back at the junction you may either crawl south back tot he well(398) or continue west(284)
+Back at the junction you may either crawl south back tot he well(398) or continue west(284). or Secret option 157.
+
+P157
+To the left of your path you notice a large hole in the ground with a diameter of three meters. Walking over to the edge of the hole you see it sloping off into the depths of the earth. If you wish to walk down into the hole, turn to 125. If you prefer to continue walking northwards up the path, turn to 337.
 
 P273
 You take the medallion from the neck of the fallen Gremlin. It is made of gold and is worth 9 Gold Pieces. 
