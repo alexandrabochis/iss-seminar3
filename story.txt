@@ -35,6 +35,9 @@ To the left of your path you notice a large hole in the ground with a diameter o
 P125
 As you descend into the hole, you notice large amounts of slime secreted by some huge creature. If you wish to climb back out of the hole and continue walking northwards up the path, turn to 337. If you wish to carry on down the hole, turn to 15.
 
+P15
+The slope is deep and you slip on the slime, tumbling head over heels down the hole to the bottom, into a large earthern cavern. You jump to your feet and are alarmed to see the shiny tip of a poison barb on the tail end of a huge STING WORM coming straight at you. The sting worm is about five metters long and has huge yellow segment but all you care about is protecting yourself from the barb. There is no time to scramble out of the whole - but before you have the chance to draw your sword the snake eats you whole. NOW YOU DED
+
 P273
 You take the medallion from the neck of the fallen Gremlin. It is made of gold and is worth 9 Gold Pieces. 
 There is nothing else of use or value in the cave. There is no other exit from the cave and you must crawl 
