@@ -30,3 +30,7 @@ Ahead you hear high pitched voices frantically calling each other. The tunnel en
 P296
 Back at the junction you may either crawl south back tot he well(398) or continue west(284)
 
+
+P398
+You reach the end of the tunnel and are about to step out on to the ladder on the wall of the well when you hear footsteps above you. If you wish to reach out, turn to 320. If you would rather wait, turn to 193.
+
