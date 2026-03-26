@@ -32,6 +32,9 @@ Back at the junction you may either crawl south back tot he well(398) or continu
 P157
 To the left of your path you notice a large hole in the ground with a diameter of three meters. Walking over to the edge of the hole you see it sloping off into the depths of the earth. If you wish to walk down into the hole, turn to 125. If you prefer to continue walking northwards up the path, turn to 337.
 
+P125
+As you descend into the hole, you notice large amounts of slime secreted by some huge creature. If you wish to climb back out of the hole and continue walking northwards up the path, turn to 337. If you wish to carry on down the hole, turn to 15.
+
 P273
 You take the medallion from the neck of the fallen Gremlin. It is made of gold and is worth 9 Gold Pieces. 
 There is nothing else of use or value in the cave. There is no other exit from the cave and you must crawl 
@@ -73,3 +76,18 @@ P162
 There is nothing to use or value in the Fish Man's cave, so you walk round to the north side wall.
 Steps lead back through the waterfall and up the north wall of the gorge to the top. You are at the foot of some hills and can see the path climbing up into their midst in the north. It is getting dark and night is closing in, so you decide to camp behind some rocks to the right of the path.
 You build a large fire and settle down to sleep with your sword by your side. Turn to 285.
+P398
+You reach the end of the tunnel and are about to step out on to the ladder on the wall of the well when you hear footsteps above you. If you wish to reach out, turn to 320. If you would rather wait, turn to 193.
+
+P205
+Each Pygmy has a small, leather pouch hung around his neck. You find 3 Gold Pieces in each. You take the gold and return to the path to continue your northwards journey. Turn to 92.
+
+
+P206
+Suddenly off the path to your left you hear cries for help. If you wish to go to the aid of the person in trouble, turn to 253. If you would rather ignore the cries and continue your journey north, turn to 187.
+
+P121
+Back at the junction, you may either go east (turn to 61) or keep going north (turn to 81).
+
+P265
+You are attacked by a huge creature. You are able to dodge it but it is still too big for you to handle. If you wish to fight it, turn to 269. If you wish to hide, turn to 318.
