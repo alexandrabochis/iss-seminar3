@@ -2,3 +2,4 @@ Written by: Bochis Alexandra, Bindiu Alexandru, Bercea Matei, Barliga Filip, Ben
 
 P135
 The tunnel continues north until at last you arrive at a junction. If you wish to crawl west, turn to 284. If you wish to crawl east, turn to 151.
+You soon arrive at another junction in the tunnel. If you wish to head north, turn 81. If you wish to head south, turn to 270.
