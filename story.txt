@@ -3,3 +3,6 @@ Written by: Bochis Alexandra, Bindiu Alexandru, Bercea Matei, Barliga Filip, Ben
 P135
 The tunnel continues north until at last you arrive at a junction. If you wish to crawl west, turn to 284. If you wish to crawl east, turn to 151.
 You soon arrive at another junction in the tunnel. If you wish to head north, turn 81. If you wish to head south, turn to 270.
+
+P81
+Ahead you hear high pitched voices frantically calling each other. The tunnel ends at a small cave entrance. Suddenly an arrow flies out of the cave towards you. Test your luck. If you are Lucky, the arrow whistles oast your head (turn to 49). If you are Unlucky, it lodges in your shoulder (turn to 4).
