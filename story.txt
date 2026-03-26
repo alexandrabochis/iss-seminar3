@@ -5,3 +5,7 @@ The tunnel continues north until at last you arrive at a junction. If you wish t
 
 P151
 The tunnel ends at a cave entrance. A curtain hangs over the entrance and you are unable to see inside. If you wish to throw back the curtain and enter the cave, turn to 71. If you wish to turn round and return to the jucntion int the tunnel, turn to 296.
+
+P284
+You soon arrive at another junction in the tunnel. If you wish to head north, turn 81. If you wish to head south, turn to 270.
+
