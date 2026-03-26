@@ -16,3 +16,6 @@ The tunnel ends at a cave entrance. A curtain hangs over the entrance and you ar
 
 P81
 Ahead you hear high pitched voices frantically calling each other. The tunnel ends at a small cave entrance. Suddenly an arrow flies out of the cave towards you. Test your luck. If you are Lucky, the arrow whistles oast your head (turn to 49). If you are Unlucky, it lodges in your shoulder (turn to 4).
+
+P296
+Back at the junction you may either crawl south back tot he well(398) or continue west(284)
