@@ -3,7 +3,6 @@ Written by: Bochis Alexandra, Bindiu Alexandru, Bercea Matei, Barliga Filip, Ben
 P135
 The tunnel continues north until at last you arrive at a junction. If you wish to crawl west, turn to 284. If you wish to crawl east, turn to 151.
 
-
 P71
 On pulling back the curtain you see a tiny green-skinned creature with large head. He has a long nose and pointed ears and wears brown canvas clothing. 
 On seeing you enter the cave he takes a stone hammer and smashes the clay hand.He is gremling chief and jumps to his feet to face you with his hammer. You must fight him.
@@ -11,7 +10,7 @@ Gremlin    Skill 5    Stamina 5
 DUring each Attack Round you must reduce your Attack Strength by 3 because of you cramped fighting position. If you win, turn to 273
 
 P284
-You soon arrive at another junction in the tunnel. If you wish to head north, turn 81. If you wish to head south, turn to 270.
+You soon arrive at another junction in the tunnel. If you wish to head north, turn 81. If you wish to head south, turn to 270. OR Secret option 105.
 
 P270
 The tunnel ends at a cave entrance. On entering the cave you see that the roof is no higher than the tunnel and you are unable to stand up. The cave is the lair of an intelligent creature, for it contains small pieces of furniture. There is a wooden box just over a metre in length at the back of the cave.
@@ -19,7 +18,10 @@ If you wish to lift the lid of the box, turn to 229.
 If you wish to turn round and return to the junction in the tunnel, turn to 121.
 
 P151
-The tunnel ends at a cave entrance. A curtain hangs over the entrance and you are unable to see inside. If you wish to throw back the curtain and enter the cave, turn to 71. If you wish to turn round and return to the jucntion int the tunnel, turn to 296.
+The tunnel ends at a cave entrance. A curtain hangs over the entrance and you are unable to see inside. If you wish to throw back the curtain and enter the cave, turn to 71. If you wish to turn round and return to the juntion int the tunnel, turn to 296.
+
+P105
+In the distance to the right of the path you see large birds circling in the sky. As you get closer you recognize them as vultures. If you wish to step off the path to see what or whom the vultures are interested in, turn to 384. If you wish to ignore the vultures and continue walking north, turn to 394.
 
 P81
 Ahead you hear high pitched voices frantically calling each other. The tunnel ends at a small cave entrance. Suddenly an arrow flies out of the cave towards you. Test your luck. If you are Lucky, the arrow whistles oast your head (turn to 49). If you are Unlucky, it lodges in your shoulder (turn to 4).
@@ -40,3 +42,10 @@ P49
 You press on down the tunnel into the cave entrance. The roof of the cave is no higher than the tunnel and you are unable to stand up.
 YOu fight to Gremlins one at a time but must reduce your Attack Strength by 3 for each round of combat because you are fighting on your
 hands and knees. If you win, turn to 371.
+
+P189
+The green topped fungi are being watered by two of the humaoinds. if you want to eat some of the fungus turn to 269. if you wish to leave the cavern by the steps on the far wall, turn to 293.
+
+P190
+Ahead you hear the thumping of heavy footsteps and the noise of brances breaking. It sounds as though some huge creature is coming down the path towards you. If you wish to face the beast turrn to 265. If you would rather hide in the bushes off the path turn to 318. 
+
