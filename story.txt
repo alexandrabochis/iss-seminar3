@@ -2,3 +2,9 @@ Written by: Bochis Alexandra, Bindiu Alexandru, Bercea Matei, Barliga Filip, Ben
 
 P135
 The tunnel continues north until at last you arrive at a junction. If you wish to crawl west, turn to 284. If you wish to crawl east, turn to 151.
+
+P71
+On pulling back the curtain you see a tiny green-skinned creature with large head. He has a long nose and pointed ears and wears brown canvas clothing. 
+On seeing you enter the cave he takes a stone hammer and smashes the clay hand.He is gremling chief and jumps to his feet to face you with his hammer. You must fight him.
+Gremlin    Skill 5    Stamina 5
+DUring each Attack Round you must reduce your Attack Strength by 3 because of you cramped fighting position. If you win, turn to 273
